@@ -1,3 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,amd.com
   - DOMAIN-SUFFIX,ati.com
+  - DOMAIN-SUFFIX,maven.apache.org
