@@ -3,3 +3,4 @@ payload:
   - DOMAIN-SUFFIX,ati.com
   - DOMAIN-SUFFIX,maven.apache.org
   - DOMAIN,hk.zhili.work
+  - DOMAIN-SUFFIX,jenkins.io
