@@ -4,3 +4,4 @@ payload:
   - DOMAIN-SUFFIX,maven.apache.org
   - DOMAIN,hk.zhili.work
   - DOMAIN-SUFFIX,jenkins.io
+  - DOMAIN-SUFFIX,belnet.be
