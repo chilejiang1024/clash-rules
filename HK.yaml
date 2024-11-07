@@ -6,3 +6,6 @@ payload:
   - DOMAIN-SUFFIX,jenkins.io
   - DOMAIN-SUFFIX,belnet.be
   - DOMAIN-SUFFIX,harvey.ai
+  - DOMAIN-SUFFIX,launchdarkly.com
+  - DOMAIN-SUFFIX,cookieyes.com
+  - DOMAIN-SUFFIX,mixpanel.com
