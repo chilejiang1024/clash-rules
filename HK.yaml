@@ -5,3 +5,4 @@ payload:
   - DOMAIN,hk.zhili.work
   - DOMAIN-SUFFIX,jenkins.io
   - DOMAIN-SUFFIX,belnet.be
+  - DOMAIN-SUFFIX,harvey.ai
