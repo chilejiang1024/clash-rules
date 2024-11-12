@@ -2,6 +2,7 @@ payload:
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN,gemini.google.com
+  - DOMAIN,one.google.com
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN,anthropic.com
   - DOMAIN,zhili.work
