@@ -1,0 +1,6 @@
+payload:
+  - IP-CIDR,172.23.7.0/24
+  - DOMAIN-SUFFIX,thunisoft.com
+  - DOMAIN-SUFFIX,feishu.cn
+  - DOMAIN-SUFFIX,zijieapi.com
+  - DOMAIN-SUFFIX,feishucdn.com
