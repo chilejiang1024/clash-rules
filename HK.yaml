@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,launchdarkly.com
   - DOMAIN-SUFFIX,cookieyes.com
   - DOMAIN-SUFFIX,mixpanel.com
+  - DOMAIN,repo.maven.apache.org
