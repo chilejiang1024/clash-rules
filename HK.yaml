@@ -10,3 +10,4 @@ payload:
   - DOMAIN-SUFFIX,cookieyes.com
   - DOMAIN-SUFFIX,mixpanel.com
   - DOMAIN,repo.maven.apache.org
+  - DOMAIN-SUFFIX,github.com
