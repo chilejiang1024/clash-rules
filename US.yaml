@@ -6,6 +6,7 @@ payload:
   - DOMAIN,gemini.google.com
   - DOMAIN,one.google.com
   - DOMAIN,aistudio.google.com
+  - DOMAIN,ai.google.dev
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN,anthropic.com
   - DOMAIN,zhili.work
