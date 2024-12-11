@@ -3,10 +3,8 @@ payload:
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,browser-intake-datadoghq.com
-  - DOMAIN,gemini.google.com
-  - DOMAIN,one.google.com
-  - DOMAIN,aistudio.google.com
-  - DOMAIN,ai.google.dev
+  - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,google.dev
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN,anthropic.com
   - DOMAIN,zhili.work
