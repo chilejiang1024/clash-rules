@@ -8,4 +8,6 @@ payload:
   - DOMAIN-SUFFIX,google.dev
   - DOMAIN-SUFFIX,anthropic.com
   - DOMAIN,anthropic.com
+  - DOMAIN,claude.ai
+  - DOMAIN-SUFFIX,claude.ai
   - DOMAIN,zhili.work
