@@ -3,5 +3,3 @@ payload:
   - IP-CIDR,172.18.0.0/24
   - DOMAIN-SUFFIX,thunisoft.com
   - DOMAIN-SUFFIX,zijieapi.com
-  - DOMAIN-SUFFIX,alicdn.com
-  - DOMAIN-SUFFIX,zijieapi.com
