@@ -18,3 +18,4 @@ payload:
   - DOMAIN-SUFFIX,feishu-3rd-party-services.com
   - DOMAIN-SUFFIX,alicdn.com
   - DOMAIN-SUFFIX,alibaba-inc.com
+  - DOMAIN-SUFFIX,qwen.ai
