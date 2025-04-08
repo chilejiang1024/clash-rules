@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,feishu.cn
   - DOMAIN-SUFFIX,feishucdn.com
   - DOMAIN-SUFFIX,feishu-3rd-party-services.com
+  - DOMAIN-SUFFIX,feelgood.cn
   - DOMAIN-SUFFIX,alicdn.com
   - DOMAIN-SUFFIX,alibaba-inc.com
   - DOMAIN-SUFFIX,qwen.ai
