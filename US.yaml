@@ -16,3 +16,6 @@ payload:
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN,zhili.work
   - DOMAIN-SUFFIX,xaiassets.net
+  - DOMAIN-SUFFIX,microsoftonline.com
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,live.com
