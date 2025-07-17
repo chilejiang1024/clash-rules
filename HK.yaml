@@ -22,3 +22,6 @@ payload:
   - DOMAIN-SUFFIX,qwen.ai
   - DOMAIN-SUFFIX,yecaoyun.com
   - DOMAIN-SUFFIX,kimi.com
+  - DOMAIN-SUFFIX,microsoftonline.com
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,live.com
