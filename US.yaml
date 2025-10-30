@@ -19,3 +19,4 @@ payload:
   - DOMAIN-SUFFIX,microsoftonline.com
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,qoder.com
