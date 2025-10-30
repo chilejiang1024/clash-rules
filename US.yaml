@@ -20,3 +20,4 @@ payload:
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,qoder.com
+  - DOMAIN-SUFFIX,qoder.sh
